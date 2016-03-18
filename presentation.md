@@ -2,6 +2,30 @@
 ####Everything you wanted to know about design, but were too afraid to ask.
 <p><br/><br/><small>Jacquelyn Brioux</a></small></p>
 
+---
+
+##iOS
+
+---
+
+##Material Design
+
+
+###Patterns
+
+
+###Components
+
+
+###Usability
+
+
+###Styles
+
+
+###Layouts
+
+---
 
 ###Vertical Slide 1
 - the 2 spaces above - indicate a vertical transition
