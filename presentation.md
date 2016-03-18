@@ -1,5 +1,6 @@
-##TODO: Add your presentations title
-<p><br/><br/><small>TODO: Add your name</a></small></p>
+##My First Reveal JS
+####Everything you wanted to know about design, but were too afraid to ask.
+<p><br/><br/><small>Jacquelyn Brioux</a></small></p>
 
 
 ###Vertical Slide 1
